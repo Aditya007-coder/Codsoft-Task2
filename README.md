@@ -1,5 +1,5 @@
 # Codsoft-Task1
-TASK 2:- PORTFOLIO WEBSITE
+TASK 1:- PORTFOLIO WEBSITE
 
 
 In this task, you will build your personal portfolio website to showcase your skills, projects, and achievements as a web developer. Your portfolio is a reflection of your professional identity, so make it stand out with these features
